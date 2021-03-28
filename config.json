@@ -1,0 +1,30 @@
+{
+    "token": "Nzk1MzM3NTQ3NzY0NTk2NzU2.X_H50A.gPw92V4iCQUjWa39MOlFwlksKwY",
+    "youtube": "AIzaSyBQvTQ5Nu_hCQypN7irsL-DRIGy91FeY9I",
+    "prefix": "§",
+    "reactionRole": {
+        "807989743844720660": {
+            "removable": true,
+            "emojis": [{
+                "name": "🔪",
+                "roles": "815130316090900501"
+            }, {
+                "name": "🎮",
+                "roles": "815130602902781973"
+            }, {
+                "name": "⛏️",
+                "roles": "815130419057786930"
+            }, {
+                "name": "⚽",
+                "roles": "815130490080198707"
+            }]
+        },
+        "825339083605147698": {
+            "emojis": [{
+                "name": "🎯",
+                "roles": "825321665243250759"
+            }]
+        }
+        
+    }
+}

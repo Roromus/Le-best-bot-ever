@@ -1,0 +1,23 @@
+{
+  "name": "frozen_gaming_bot",
+  "version": "0.0.1",
+  "description": "Bot de Frozen Gaming",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "googleapis": "^67.1.1",
+    "humanize-duration": "^3.25.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "parse-duration": "^0.4.4",
+    "youtube": "^0.1.0",
+    "youtube-search": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roromus",
+  "license": "ISC"
+}
